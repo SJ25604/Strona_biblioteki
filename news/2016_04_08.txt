@@ -1,0 +1,21 @@
+﻿<article>
+            <header class="article_header">
+
+                <h1>8 kwietnia 2016</h1>
+                <h2>Michał po raz kolejny laureatem ogólnopolskiego konkursu graficznego</h2>
+
+            </header>
+            <content>
+                <img src="5_kwietnia_2016.jpg"/>
+                <p>Michał Dolina, uczeń klasy III a naszego liceum, został laureatem XVI Ogólnopolskiego Konkursu Filmowego "Odkrywcy innych światów w kinie" organizowanego przez II Liceum Ogólnokształcące im. Andrzeja Frycza Modrzewskiego w
+                    <a  style="color:grey; font-size:100%;" href="index.html">...więcej</a></p> <!--<p>Konkurs odbył się pod patronatem Śląskiego Kuratora Oświaty i Prezydenta Miasta Rybnika. Jego celem było propagowanie kultury filmowej, rozwijanie umiejętności analizy zjawisk związanych ze współczesną kinematografią, kształtowanie różnych form wypowiedzi artystycznej oraz inspirowanie do własnych poszukiwań w świecie szeroko pojętej kultury. Uczestnicy konkursu przygotowywali prace w czterech kategoriach: praca badawcza, praca plastyczna, projekt scenariusza filmowego i oryginalna etiuda filmowa. Organizatorzy wskazali 10 tytułów filmów m. in. "Gwiezdne wrota", "Matrix", "Labirynt Fauna", "Incepcja", "Tron: Dziedzictwo", na podstawie których mogły powstać prace konkursowe.
+            </p><p>Michał Dolina uzyskał tytuł laureata w kategorii praca plastyczna. Wykonał grafikę komputerową inspirowaną filmem "Labirynt Fauna". Przedstawił moment przekraczania przez główną bohaterkę bram prowadzących do labiryntu.
+            </p><p>Uroczyste podsumowanie konkursu i wręczenie nagród odbyło się 31 marca w Rybniku. Jury pod przewodnictwem pani p. Marii Malczewskiej-Budny artystki-plastyka podkreśliło, że prace laureatów prezentowały ciekawe ujęcie tematu, oddawały klimat wybranych filmów, wykorzystano w nich zróżnicowane środki wyrazu, a autorzy wykazali się dużą pomysłowością i umiejętnościami malarskimi.
+            </p><p>Michał Dolina pracuje pod kierunkiem pani Anny Dobraczyńskiej, nauczyciela grafiki komputerowej.
+            </p>-->
+            </content>
+            <footer>
+                Stopka
+            </footer>
+            <hr class="hr_article_bottom">
+        </article>
